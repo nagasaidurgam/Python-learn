@@ -19,6 +19,6 @@ This repository contains beginner-friendly Python notebooks to learn core Python
 
 ---
 
-👩‍💻 Created by: **Durga**  
-📍 Location: Hyderabad  
-📚 Goal: Becoming a Python Developer 🚀
+ Created by: **Naga Sai Durga**  
+ Location: Hyderabad  
+ Goal: Becoming a Python Developer 
